@@ -1,5 +1,5 @@
 # MaquinaTrocoCppWin
-Simulador de dispensador de moedas
+Simulador de dispensador de moedas.
 
 Clonar o repositório no Visual Studio.
 
