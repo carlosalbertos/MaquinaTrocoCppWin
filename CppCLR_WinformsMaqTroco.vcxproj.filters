@@ -66,5 +66,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\..\..\Temp\caixa.ini" />
+    <None Include="caixa.ini" />
   </ItemGroup>
 </Project>

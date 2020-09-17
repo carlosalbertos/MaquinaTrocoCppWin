@@ -182,6 +182,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\..\..\..\Temp\caixa.ini" />
+    <None Include="caixa.ini" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
